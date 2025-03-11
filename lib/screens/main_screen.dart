@@ -14,7 +14,6 @@ class _MainScreenState extends ConsumerState<MainScreen> {
 
   final List<Widget> _screens = [
     HomeScreen(),
-    CategoriesScreen(),
     ProfileScreen(),
   ];
 
