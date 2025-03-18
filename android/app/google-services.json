@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "123537963024",
+    "project_id": "placeit-7a37e",
+    "storage_bucket": "placeit-7a37e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123537963024:android:e7eeab9c16ca82233e3295",
+        "android_client_info": {
+          "package_name": "com.example.placeit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123537963024-sbkrv73q4pabspmoikbjjcc1ua9uvmvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8NkVL1x-4yZvlQv25rCvAWCcfZX2bM-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123537963024-sbkrv73q4pabspmoikbjjcc1ua9uvmvr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "123537963024-d8rf6sm3ro51fq9vcclukblra2cm9o54.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.placeit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
